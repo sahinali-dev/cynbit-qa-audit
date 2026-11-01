@@ -15,4 +15,4 @@ The objective of this audit was to identify UI quirks, layout responsiveness, cr
 ## 3. Testing Methodology
 - **Exploratory Testing:** Evaluated core user navigation, hover effects and call-to-action click responses.
 - **Cross-Platform Verification:** Verified functional behavior across Desktop vs. Android viewports.
-- **Visual & Typography Inspection:** Inspected container overflow rules, typographic rendering, and layout alignment.
+- **Visual & Typography Inspection:** Inspected container overflow rules, typographic rendering and layout alignment.
