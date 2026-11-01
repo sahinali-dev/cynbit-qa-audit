@@ -3,6 +3,7 @@
 **Applicant:** Sahin Ali  
 **Role Applied:** QA Testing Intern  
 **Target Website:** https://cynbit.in
+
 **Submission Date:** November 2, 2026  
 
 ## Executive Summary
