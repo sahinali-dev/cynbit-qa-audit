@@ -9,7 +9,6 @@
 | **BUG-04** | Android Nav Menu Ambiguity ('Blog & Contact') | Low | Medium | UX / Navigation |
 | **BUG-05** | 'Write Us' Desktop Click Event Listener Issue | High | High | Functional / Cross-Platform |
 
-![Bug - 01 Proof](./screenshots/Bug%20-%2001.png)
 ---
 
 ### Detailed Bug Descriptions
@@ -25,6 +24,10 @@
 - **Expected Result:** Typography should render completely without glyph truncation.
 - **Actual Result:** Letter 'p' appears partially cut off on the right side.
 
+![Bug - 01 Proof](./screenshots/Bug%20-%2001.png)
+
+----
+
 #### BUG-02: Empty Box Elements in "System Logic – Preparation"
 - **Severity:** Medium | **Priority:** Medium
 - **Component:** System Logic Section
@@ -35,6 +38,10 @@
 - **Expected Result:** Boxes should contain text/data, or display a clean loading/empty state.
 - **Actual Result:** Blank placeholder boxes render without content.
 
+![Bug - 02 Proof](./screenshots/Bug%20-%2002.png)
+
+----
+
 #### BUG-03: Typography Clipping on "Contact – Blueprint"
 - **Severity:** Low | **Priority:** Low
 - **Component:** Contact Section ("Blueprint")
@@ -42,12 +49,17 @@
 - **Expected Result:** Full visibility of typographic characters.
 - **Actual Result:** Character 'p' edge is clipped by container boundaries.
 
+![Bug - 03 Proof](./screenshots/Bug%20-%2003.png)
+
+----
+
 #### BUG-04: Non-Interactive Heading in Android Navigation Menu
 - **Severity:** Low | **Priority:** Medium
 - **Component:** Android Mobile Navigation Menu
 - **Description:** "Blog & Contact" displays in large bold text resembling a clickable navigation link, but tapping produces no action.
 - **Expected Result:** Menu items with link styling should navigate to target sections/pages.
 - **Actual Result:** Item behaves as a static heading without navigational affordance.
+
 
 #### BUG-05: Desktop Primary Click Defect on "Write Us" Button
 - **Severity:** High | **Priority:** High
@@ -58,6 +70,10 @@
   2. Left-click the "Write Us" button.
 - **Expected Result:** Primary left-click opens default desktop email client (or triggers mailto event).
 - **Actual Result:** Button elevates on hover, but direct left-click triggers no window action.
+
+![Bug - 05 Proof](./screenshots/Bug%20-%2005.png)
+
+----
 
 ---
 
