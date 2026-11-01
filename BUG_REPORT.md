@@ -9,7 +9,7 @@
 | **BUG-04** | Android Nav Menu Ambiguity ('Blog & Contact') | Low | Medium | UX / Navigation |
 | **BUG-05** | 'Write Us' Desktop Click Event Listener Issue | High | High | Functional / Cross-Platform |
 
-![BUG-01 Proof](./screenshots/bug%20-%2001.png)
+![Bug - 01 Proof](./screenshots/bug%20-%2001.png)
 ---
 
 ### Detailed Bug Descriptions
