@@ -59,5 +59,5 @@
 - **Actual Result:** Button elevates on hover, but direct left-click triggers no window action.
 
 ---
-*(Optional: If you upload screenshots to a folder named `screenshots`, you can reference them below like this)*
+
 <!-- ![Write Us Bug Proof](./screenshots/write-us-bug.png) -->
